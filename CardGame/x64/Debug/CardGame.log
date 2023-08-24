@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\sunrising\desktop\leetcode_2016\vcpp\cardgame\cardgame\source.cpp(220): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  CardGame.vcxproj -> C:\Users\sunrising\Desktop\leetcode_2016\vcpp\CardGame\x64\Debug\CardGame.exe
+  CardGame.vcxproj -> C:\Users\sunrising\Desktop\leetcode_2016\vcpp\CardGame\x64\Debug\CardGame.pdb (Full PDB)
